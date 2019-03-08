@@ -642,7 +642,8 @@ nav ul li a {
 .gaadiex-list {list-style-type: none; margin: 0;padding: 0;}
 .gaadiex-list > .gaadiex-list-item {
 
-    padding: 9px 326px;
+    /*padding: 9px 326px;*/
+    margin-top: 10px;
 
 }
 .gaadiex-list-item-img  {
