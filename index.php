@@ -32,12 +32,6 @@
   <link rel="shortcut icon" href="images/faviconCopy.png">
   <link rel="stylesheet" href="css/all.min.css">
 
-  <!-- =======================================================
-    Theme Name: Folio
-    Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-  ======================================================= -->
 </head>
 
 <body>
@@ -451,7 +445,7 @@ Management
               <h2 class="mb-30">GET IN TOUCH</h2>
 
               <ul class="contact-details">
-                <li><span>Block# A, Bashundhara Residential Area</span></li>
+                <li><span>Bashundhara Residential Area</span></li>
                 <li><span>Dhaka, Bangladesh</span></li>
                 <li><span>+88 01676451865</span></li>
                 <li><span>sakibahmad24@gmail.com</span></li>
@@ -461,7 +455,7 @@ Management
           </div>
 
           <div class="col-lg-6">
-            <form action="" method="post" role="form" class="contactForm">
+            <form action="mailer.php" method="post" role="form" class="contactForm">
               <div class="row">
 
                 <div id="sendmessage">Your message has been sent. Thank you!</div>
@@ -528,12 +522,6 @@ Management
       <p>&copy; Copyrights Kazi Sakib Ahmad. All rights reserved.</p>
 
       <div class="credits">
-        <!--
-          All the links in the footer should remain intact.
-          You can delete the links only if you purchased the pro version.
-          Licensing information: https://bootstrapmade.com/license/
-          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Folio
-        -->
         
       </div>
 
