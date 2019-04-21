@@ -61,7 +61,7 @@
   </nav>
   <!-- End section navbar -->
 
-
+;2
   <!-- start section header -->
   <div id="header" class="home">
 
@@ -85,7 +85,7 @@
 
 
   <!-- start section about us -->
-  <div id="about" class="paddsection">
+  <div id="about" class="paddsection wow fadeInUp">
     <div class="container">
       <div class="row justify-content-between">
 
@@ -114,11 +114,11 @@
   <!-- start section services -->
   <div id="services">
     <div class="container">
-
+<div class="section-title text-center">
+            <h2>My Expertises</h2>
+          </div>
         <div class="services-carousel owl-theme">
-        	<div class="section-title text-center">
-        		<h2>My Expertises</h2>
-      		</div>
+        	
 
           <div class="services-block">
 
@@ -173,6 +173,13 @@
 
             <i class="fab fa-git-square"></i>
             <span>Git</span>
+
+          </div>
+
+          <div class="services-block">
+
+            <i class="fas fa-bug"></i>
+            <span>Software Testing</span>
 
           </div>
 
